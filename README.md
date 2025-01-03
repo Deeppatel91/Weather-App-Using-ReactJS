@@ -1,25 +1,43 @@
-# Weather App
+# Weather App 🌤️
 
-This is a weather application built using ReactJS that fetches real-time weather data from the OpenWeatherMap API.
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-### Developer Details:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-339933?style=for-the-badge&logo=openweathermap&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+This is a **Weather Application** built using **ReactJS** that fetches real-time weather data from the **OpenWeatherMap API**. It provides a user-friendly interface to view current weather conditions and a 5-day forecast for any city.
+
+---
+
+## Developer Details
+
 - **Name:** Deep Patel  
 - **Student ID:** 101415117  
 - **Course:** COMP-3123  
 
-## Features
+---
 
-- View current weather for any city.
-- Search functionality to dynamically fetch weather data.
-- Icons and descriptions for weather conditions.
-- 5-day forecast displayed dynamically.
-- Enhanced UI/UX with a background image and interactive search bar.
+## Features 🌟
 
-## API
+- **Real-Time Weather Data:** Fetch and display current weather conditions for any city.
+- **Dynamic Search:** Search functionality to dynamically fetch weather data for any location.
+- **Weather Icons & Descriptions:** Visual representation of weather conditions with icons and descriptions.
+- **5-Day Forecast:** Display a 5-day weather forecast dynamically.
+- **Enhanced UI/UX:** Interactive search bar and background image for a visually appealing experience.
 
-- [OpenWeatherMap](https://openweathermap.org/)
+---
 
-## Screenshots
+## Technologies Used 🛠️
+
+- **Frontend:** ReactJS
+- **API Integration:** OpenWeatherMap API
+- **Testing Tool:** Postman
+- **Styling:** CSS
+
+---
+
+## Screenshots 📸
 
 ### 1. Postman Request
 ![Postman Request](./src/assets/Screenshot%202024-11-28%20152638.png)
@@ -36,8 +54,11 @@ This is a weather application built using ReactJS that fetches real-time weather
 ### 5. Weather Search for Denver
 ![Denver Weather](./src/assets/Screenshot%202024-11-28%20162200.png)
 
-## How to Run
+---
 
-1. Clone the repository:
+## How to Run 🚀
+
+1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Deeppatel91/101415117_comp3123_labtest2.git
+   cd 101415117_comp3123_labtest2
