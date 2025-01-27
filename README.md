@@ -54,11 +54,4 @@ This is a **Weather Application** built using **ReactJS** that fetches real-time
 ### 5. Weather Search for Denver
 ![Denver Weather](./src/assets/Screenshot%202024-11-28%20162200.png)
 
----
-
-## How to Run 🚀
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Deeppatel91/101415117_comp3123_labtest2.git
-   cd 101415117_comp3123_labtest2
+--
